@@ -1,0 +1,15 @@
+{
+  "name": "api-simples",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/jonathanmacedo/api-simples.git",
+  "author": "Jonathan Macedo Castro <macedojc04@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.16"
+  }
+}
